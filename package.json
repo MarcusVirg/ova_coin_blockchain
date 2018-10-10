@@ -1,0 +1,27 @@
+{
+  "name": "ova_coin_blockchain",
+  "version": "1.0.0",
+  "description": "Ova Coin system and block-chain",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "dev-test": "nodemon dev-test"
+  },
+  "keywords": [
+    "block-chain",
+    "Ova",
+    "Coin",
+    "Luova",
+    "Technologies"
+  ],
+  "author": "Marcus Virginia",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "jest": "^23.6.0",
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
